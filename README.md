@@ -1,6 +1,7 @@
 # BA-Glass
 
-During one week, 18 students were divided into three groups. Our group task was to use software available on Google Cloud Services to manipulate a set of data supplied by BA Glass to answer specific questions regarding that data.
+During one week, 18 students were divided into three groups.</br>
+Our group task was to use software available on Google Cloud Services to manipulate a set of data supplied by BA Glass to answer specific questions regarding that data.
 Specifically, the objective of our work was to determine the best set of values to maximize production throughput from a dataset of adjustments to production parameters.
 
 ## Visual guide of implementation
